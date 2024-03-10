@@ -1,5 +1,8 @@
 # MyNoteTaker
 
+<img width="1342" alt="Screenshot 2024-03-10 at 6 05 53 PM" src="https://github.com/paigepreziosi/MyNoteTaker/assets/151070992/01b59a7f-94c7-4016-a7ed-e15fe7d8e84a">
+<img width="1399" alt="Screenshot 2024-03-10 at 6 06 14 PM" src="https://github.com/paigepreziosi/MyNoteTaker/assets/151070992/d7d96b91-35e1-463c-a54f-00c77827eaab">
+
 ## Table of Contents
 1. Project Description
 2. User Story
