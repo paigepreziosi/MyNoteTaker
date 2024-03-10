@@ -14,7 +14,7 @@
 8. Contact
 
 ## 1. Project Description
-This is a note taker application that allows the user to create, save, and delete notes. The application uses an Express.js back end and saves and retrieves note data from a JSON file. The application uses a front end that uses HTML and CSS to create the user interface. The application uses a front end that uses JavaScript to allow the user to interact with the application. 
+This is a note taker application that allows the user to create, save, clear and delete notes as needed. The application uses an Express.js back end and saves and retrieves note data from a JSON file. The application uses a front end that uses HTML and CSS to create the user interface. The application uses a front end that uses JavaScript to allow the user to interact with the application.
 
 ## 2. User Story
 - AS A small business owner
